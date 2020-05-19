@@ -1,0 +1,79 @@
+.title {
+	font-weight: bold;
+	font-size: 30px;
+}
+header{
+  background-color:rgba(250, 164, 4, 0.705);
+  border-bottom: 1px rgba(250, 164, 4, 0.705);
+  width: 100%;
+  z-index: 10;  
+}
+
+li {
+  font-family: 맑은 고딕;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+ul{
+  text-align: left;
+  padding-right: 530px;
+}
+
+h1 {
+  font-family: Aldhabi;
+  font-size: 32px;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: rgb(255, 166, 1);
+  font-family: 함초롬돋움;
+  font-size: 26px;
+  font-weight: 300;
+}  
+
+h3 {
+  font-family: 맑은 고딕;
+  font-size: 18px;
+  font-weight: 300;
+  padding-left: 15px;   
+}
+
+h4 {
+  color: rgb(255, 166, 1);
+  font-family: 함초롬돋움;
+  font-size: 26px;
+  font-weight: 300;
+  margin: 0 auto 20px auto;
+}
+
+h5 {
+  color: rgb(255, 166, 1);
+  font-family: 함초롬돋움;
+  font-size: 26px;
+  font-weight: 300;
+  margin: 0 auto 20px auto;
+}
+
+h6{
+  font-family: 맑은 고딕;
+  font-size: 18px;
+  font-weight: 300;
+  padding-left: 15px;
+  padding-right: 550px;    
+}
+
+h7 {
+  color: rgb(255, 166, 1);
+  font-family: 함초롬돋움;
+  font-size: 26px;
+  font-weight: 300;
+  margin: 0 auto 20px auto;
+}
+
+.answer{
+  background-color: rgba(255, 123, 0, 0.068);   
+}
